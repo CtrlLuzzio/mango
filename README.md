@@ -1,0 +1,2 @@
+# mango
+Personal MangoWM config
